@@ -1,5 +1,5 @@
 
-# Published 
+# Click the link below if you want to see 
 
-[Click Published Link](https://onurvarsak.github.io/react-deploy/)
+https://onurvarsak.github.io/react-deploy/
 
